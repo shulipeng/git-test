@@ -15,5 +15,6 @@ public class GitClass {
         System.out.println("master update");
         System.out.println("master update");
         System.out.println("master update");
+        System.out.println("master update");
     }
 }
